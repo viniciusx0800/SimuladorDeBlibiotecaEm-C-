@@ -12,5 +12,12 @@
     "LivroId": 2,
     "DataEmprestimo": "2025-07-08T16:00:59.8966331-03:00",
     "DataDevolucao": "2025-07-08T16:01:19.7525063-03:00"
+  },
+  {
+    "Id": 3,
+    "UsuarioId": 2,
+    "LivroId": 2,
+    "DataEmprestimo": "2025-07-17T13:16:01.923832-03:00",
+    "DataDevolucao": null
   }
 ]
